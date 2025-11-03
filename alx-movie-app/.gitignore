@@ -47,6 +47,7 @@ postcss.config.mjs
 README.md 
 tsconfig.json 
 styles 
-api  
+hello.ts 
 _document.tsx 
 globals.d.ts 
+.env.local 
